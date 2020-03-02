@@ -5,10 +5,9 @@ import './MessageComponent.css'
 const MessageComponent = (props) => {
 
     return (
-        <div>
+        <div className="message">
             <h1>MessageComponent</h1>
         </div>
-
     )
 };
 

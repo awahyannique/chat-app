@@ -3,7 +3,7 @@ import React from 'react'
 const SendMessageComponent = (props) => {
 
     return (
-        <div>
+        <div className="send-message-form">
             <h1>SendMessageComponent</h1>
         </div>
 
